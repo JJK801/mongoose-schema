@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kareem": "1.1.3",
+    "hooks-fixed": "1.2.0",
+    "mpath": "0.2.1",
+    "bson": "~0.5.4",
+    "regexp-clone": "0.0.1",
+    "sliced": "1.0.1",
+    "mpath": "0.2.1",
+    "mpromise": "0.5.5",
+    "mquery": "2.0.0"
+  }
+}
